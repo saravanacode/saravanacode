@@ -5,7 +5,7 @@
 ### AI Platform Engineer | Computer Vision · Agentic AI & LLMs · Edge & Robotics
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saravanaperumalnatarajan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saravana-perumal-natarajan/?isSelfProfile=true)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saravanaperumalnataraj8@gmail.com)
 
 </div>
@@ -66,7 +66,6 @@ Hi i am the friendly neighbourhood developer who build AI systems across compute
 | **[Telemachos](https://github.com/saravanacode/telemachos)** | Offline-first, store-and-forward telemetry crate for Rust, designed for edge/robotics targets | `Rust` `tracing` `OTLP` |
 | **[AirPiano](https://github.com/saravanacode/airpiano)** | Gesture-controlled rhythm game — real-time hand tracking mapped to a live synth | `MediaPipe` `Tauri` `Web Audio API` |
 
-*(update the repo links above once each is pushed public — swap in real URLs)*
 
 ---
 
@@ -85,6 +84,6 @@ Hi i am the friendly neighbourhood developer who build AI systems across compute
 
 <div align="center">
 
-📍 Bangalore, Karnataka, India &nbsp;·&nbsp; Open to interesting AI/CV/robotics collaborations
+📍 Bangalore, Karnataka, currently but from Tuticorin, Tamilnadu  India &nbsp;·&nbsp; Open to interesting AI/CV/robotics collaborations
 
 </div>
