@@ -4,8 +4,6 @@
 
 ### AI Platform Engineer | Computer Vision · Agentic AI & LLMs · Edge & Robotics
 
-I build production AI systems across computer vision, real-time LLM agents, and edge inference —
-from model/pipeline work to the infrastructure that deploys it on real hardware.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saravanaperumalnatarajan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saravanaperumalnataraj8@gmail.com)
@@ -16,11 +14,7 @@ from model/pipeline work to the infrastructure that deploys it on real hardware.
 
 ### About Me
 
-- 🤖 AI Platform Engineer at **Machani Robotics** — real-time multimodal agents, edge perception, robotics infrastructure
-- 🧠 Deep in the **GGML/GGUF** ecosystem — extending it from LLM-only toward computer vision (rare territory)
-- 📈 Solo-built **Vanegam**, a live algorithmic trading platform — async microservices, real-time execution, local-LLM reporting
-- ⚙️ Designing **Telemachos** — an offline-first telemetry crate for Rust, built for edge/robotics targets
-- 🌱 Always shipping something at the intersection of CV, agents, and real hardware
+Hi i am the friendly neighbourhood developer who build AI systems across computer vision, real-time LLM agents, edge inference and also cloud inference and i don't remember more... like like a lot os stuff. just checkout my repos to know more....
 
 ---
 
