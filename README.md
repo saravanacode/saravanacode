@@ -26,11 +26,28 @@ from model/pipeline work to the infrastructure that deploys it on real hardware.
 
 ### Tech Stack
 
-<div align="center">
+**Languages**
+<br>
+![Languages](https://skillicons.dev/icons?i=py,rust,go,cpp,ts&theme=dark)
 
-![Periodic Table of My Stack](./assets/tech-periodic-table.svg)
+**AI / ML & Computer Vision**
+<br>
+![AI/ML/CV](https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark)
+`ONNX` `TensorRT`
 
-</div>
+**LLM & Agentic AI**
+<br>
+`Gemini` `OpenAI` `LangChain` `Ollama` `GGUF/GGML`
+
+**Backend & Infra**
+<br>
+![Backend/Infra](https://skillicons.dev/icons?i=fastapi,docker,kubernetes,aws,git,linux,bash&theme=dark)
+`Bazel` `NATS` `gRPC`
+
+**Edge & Robotics**
+<br>
+![Edge/Robotics](https://skillicons.dev/icons?i=ros,raspberrypi&theme=dark)
+`Jetson` `OpenVINO` `CUDA`
 
 ---
 
